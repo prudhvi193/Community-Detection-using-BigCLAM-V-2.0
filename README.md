@@ -22,10 +22,14 @@ Description about the files:
 
 1)Project-5.pdf: The file contains the steps associated for developing the application and also the intermediate output formats for executing the program.
 
-2)
+2)Community_Detection.py: Python community detection program developed using BigCLAM Version 2.0 for all the three different type of factor matrix initalizations and the associated internal computations.
 
+3)groundtruth_communities.txt: This data is a space seperated file, where each node-id with a set of node id's represent a ground truth community
 
+4)YouTube.edgelist: Curated Data sample of the YouTube social network and this data file consists of 7675 nodes, 35,622 edges, and 29 ground-truth communities. This file should be loaded using the networkx package.
 
+5)20percent_seed_communities.txt: This is space separated file, where each line, with a set of node ids, represent a community and can be used to initialize all communities.
 
+6)neighborhood_seeds.txt: This is space separated file, where each line, with a set of node ids, represent a community and can be used to initialize all communities.
 
-
+Output Files: The explanation about the output generated is available in "Community_Detection.py" python file which explains clearly each step on how is the end result obtained.
