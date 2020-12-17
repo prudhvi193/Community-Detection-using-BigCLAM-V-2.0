@@ -32,4 +32,4 @@ Description about the files:
 
 6)neighborhood_seeds.txt: This is space separated file, where each line, with a set of node ids, represent a community and can be used to initialize all communities.
 
-Output Files: The explanation about the output generated is available in "Community_Detection.py" python file which explains clearly each step on how is the end result obtained.
+Output Files: The explanation about the output generated is available in "Community_Detection.ipynb" python file which explains clearly each step on how is the end result obtained.
