@@ -22,7 +22,7 @@ Description about the files:
 
 1)Project-5.pdf: The file contains the steps associated for developing the application and also the intermediate output formats for executing the program.
 
-2)Community_Detection.py: Python community detection program developed using BigCLAM Version 2.0 for all the three different type of factor matrix initalizations and the associated internal computations.
+2)Community_Detection.py/Community_Detection.ipynb: Python community detection program developed using BigCLAM Version 2.0 for all the three different type of factor matrix initalizations and the associated internal computations.
 
 3)groundtruth_communities.txt: This data is a space seperated file, where each node-id with a set of node id's represent a ground truth community
 
