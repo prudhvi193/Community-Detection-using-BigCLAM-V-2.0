@@ -4,7 +4,7 @@ This project was developed as part of my Master's Course Study in Algorithms and
 
 Authors: Prudhviraj Sheela
 
-The main motive of this project is to understand the fine details of implementing community detection using BigCLAM Version 2.0 Algorithm. In specific, I have developed an algorithm to find overlapping communities in the given network which states that a node can be represented in multiple communities in the given network. The algorithm formulates the community detection as a non-negative matrix factorization with maximum log-likelihood estimation problem by parameterizing node strength in communities. The process flow includes 4 phases of execution and they are:
+The main motive of this project is to understand the fine details of implementing community detection using BigCLAM (Cluster Affiliation Model for Big Networks) Version 2.0 Algorithm. In specific, I have developed an algorithm to find overlapping communities in the given network which states that a node can be represented in multiple communities in the given network. The algorithm formulates the community detection as a non-negative matrix factorization with maximum log-likelihood estimation problem by parameterizing node strength in communities. The process flow includes 4 phases of execution and they are:
 
 a)Factor Matrix Initalization for the given seed communities and for random sample data.
 
